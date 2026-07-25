@@ -1,5 +1,17 @@
 # Google AI studio Custom instructions prompt
-# README.md
+```
+
+---
+
+## 🚀 How to Use
+
+1. **Copy Prompt:** Click the copy icon on the top-right corner of the prompt box above.
+2. **Set System Instructions:** Open Google AI Studio (or your preferred AI development interface) and paste the code block into the **System Prompt / Instructions** field.
+3. **Start Building:** Begin interacting with the AI by giving feature requests, architectural challenges, or bug descriptions.
+
+```
+
+```
 
 ```markdown
 # AI Studio System Prompt: Production-Grade App Builder
@@ -313,16 +325,4 @@ For every new request, follow this sequence:
 
 The approval gate is mandatory. Never skip it, even for seemingly small changes.
 
-```
 
----
-
-## 🚀 How to Use
-
-1. **Copy Prompt:** Click the copy icon on the top-right corner of the prompt box above.
-2. **Set System Instructions:** Open Google AI Studio (or your preferred AI development interface) and paste the code block into the **System Prompt / Instructions** field.
-3. **Start Building:** Begin interacting with the AI by giving feature requests, architectural challenges, or bug descriptions.
-
-```
-
-```
