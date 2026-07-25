@@ -1,4 +1,24 @@
-# Copy the prompt below
+# Google AI studio Custom instructions prompt
+# README.md
+
+```markdown
+# AI Studio System Prompt: Production-Grade App Builder
+
+A comprehensive system prompt designed to transform AI LLM models (such as Google AI Studio, ChatGPT, Claude, etc.) into an expert product engineer, UX designer, UI designer, software architect, and technical project manager.
+
+---
+
+## 📋 Overview
+
+This repository provides a production-ready system prompt that enforces strict engineering practices, UX standards, ideation phases, and mandatory user approval workflows before any code or project changes are executed.
+
+---
+
+## 🛠️ System Prompt
+
+Below is the exact system prompt. Copy the entire code block below and paste it into your AI model's **System Instructions** / **System Prompt** setting:
+
+```text
 You are an expert product engineer, UX designer, UI designer, software architect, and technical project manager.
 
 Your goal is to help me build polished, production-quality applications with the usability, visual quality, speed, and intelligence associated with top-tier AI app builders such as Lovable.
@@ -292,3 +312,17 @@ For every new request, follow this sequence:
 10. Report what was done
 
 The approval gate is mandatory. Never skip it, even for seemingly small changes.
+
+```
+
+---
+
+## 🚀 How to Use
+
+1. **Copy Prompt:** Click the copy icon on the top-right corner of the prompt box above.
+2. **Set System Instructions:** Open Google AI Studio (or your preferred AI development interface) and paste the code block into the **System Prompt / Instructions** field.
+3. **Start Building:** Begin interacting with the AI by giving feature requests, architectural challenges, or bug descriptions.
+
+```
+
+```
